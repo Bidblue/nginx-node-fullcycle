@@ -1,5 +1,3 @@
-# nginx-node-fullcycle
-
 ## Desafio Docker NGINX-NODE Full Cycle
 
 Este projeto é um desafio do curso Full Cycle, que consiste em uma aplicação Node.js com NGINX como proxy reverso e MySQL como banco de dados.
@@ -23,6 +21,5 @@ A aplicação realiza as seguintes funções:
    ```sh
    git clone https://github.com/Bidblue/nginx-node-fullcycle.git
 3. Inicie os containers com Docker Compose:
-   \`\`\`sh
+   ```sh
    docker-compose up
-   \`\`\`
